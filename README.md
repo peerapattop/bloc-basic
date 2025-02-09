@@ -1,16 +1,12 @@
-# flutter_bloc
+# Bloc Basic
+เป็นการเรียนรู้การสร้างแอปพลิเคชันด้วย Flutter โดยการใช้ Bloc สำหรับจัดการ State เบื้องต้น ศึกษาจากช่อง Youtube ชื่อ CMDev
 
-A new Flutter project.
+## 🎥 ตัวอย่างแอปพลิเคชัน
 
-## Getting Started
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/peerapattop/bloc-basic/raw/main/assets/images/home.png" width="200" />
+  <img src="https://github.com/peerapattop/bloc-basic/raw/main/assets/images/another.png" width="200" />
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 ดาวน์โหลดแอปพลิเคชัน
+https://drive.google.com/file/d/1TlgCPu5TP4Hu1zN9BpZQLe3EwCe6WPqq/view?usp=sharing
